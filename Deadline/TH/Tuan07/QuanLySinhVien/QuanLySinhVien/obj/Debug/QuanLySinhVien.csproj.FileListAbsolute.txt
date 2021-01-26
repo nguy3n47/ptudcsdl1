@@ -1,0 +1,28 @@
+D:\Dowloads\Temp\QuanLySinhVien\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+D:\Dowloads\Temp\QuanLySinhVien\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+D:\Dowloads\Temp\QuanLySinhVien\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+D:\Dowloads\Temp\QuanLySinhVien\QuanLySinhVien\QuanLySinhVien\bin\Debug\BUS.dll
+D:\Dowloads\Temp\QuanLySinhVien\QuanLySinhVien\QuanLySinhVien\bin\Debug\DAL.dll
+D:\Dowloads\Temp\QuanLySinhVien\QuanLySinhVien\QuanLySinhVien\bin\Debug\DTO.dll
+D:\Dowloads\Temp\QuanLySinhVien\QuanLySinhVien\QuanLySinhVien\bin\Debug\BUS.pdb
+D:\Dowloads\Temp\QuanLySinhVien\QuanLySinhVien\QuanLySinhVien\bin\Debug\DAL.pdb
+D:\Dowloads\Temp\QuanLySinhVien\QuanLySinhVien\QuanLySinhVien\bin\Debug\DTO.pdb
+D:\Dowloads\Temp\QuanLySinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csprojAssemblyReference.cache
+D:\Dowloads\Temp\QuanLySinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CoreCompileInputs.cache
+D:\Dowloads\Temp\QuanLySinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CopyComplete
+D:\Dowloads\Temp\QuanLySinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+D:\Dowloads\Temp\QuanLySinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+C:\Users\Admin\Downloads\18600183 (1)\PTUDCSDL\QuanLySinhVien\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+C:\Users\Admin\Downloads\18600183 (1)\PTUDCSDL\QuanLySinhVien\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+C:\Users\Admin\Downloads\18600183 (1)\PTUDCSDL\QuanLySinhVien\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+C:\Users\Admin\Downloads\18600183 (1)\PTUDCSDL\QuanLySinhVien\QuanLySinhVien\QuanLySinhVien\bin\Debug\BUS.dll
+C:\Users\Admin\Downloads\18600183 (1)\PTUDCSDL\QuanLySinhVien\QuanLySinhVien\QuanLySinhVien\bin\Debug\DAL.dll
+C:\Users\Admin\Downloads\18600183 (1)\PTUDCSDL\QuanLySinhVien\QuanLySinhVien\QuanLySinhVien\bin\Debug\DTO.dll
+C:\Users\Admin\Downloads\18600183 (1)\PTUDCSDL\QuanLySinhVien\QuanLySinhVien\QuanLySinhVien\bin\Debug\BUS.pdb
+C:\Users\Admin\Downloads\18600183 (1)\PTUDCSDL\QuanLySinhVien\QuanLySinhVien\QuanLySinhVien\bin\Debug\DAL.pdb
+C:\Users\Admin\Downloads\18600183 (1)\PTUDCSDL\QuanLySinhVien\QuanLySinhVien\QuanLySinhVien\bin\Debug\DTO.pdb
+C:\Users\Admin\Downloads\18600183 (1)\PTUDCSDL\QuanLySinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\18600183 (1)\PTUDCSDL\QuanLySinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\18600183 (1)\PTUDCSDL\QuanLySinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CopyComplete
+C:\Users\Admin\Downloads\18600183 (1)\PTUDCSDL\QuanLySinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+C:\Users\Admin\Downloads\18600183 (1)\PTUDCSDL\QuanLySinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb

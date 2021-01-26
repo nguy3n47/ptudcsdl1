@@ -1,0 +1,11 @@
+D:\FIT-HCMUS\Courses\PTUDCSDL\Deadline\TH\Tuan03\18600187\QuanLySinhVien\BUS\bin\Debug\BUS.dll
+D:\FIT-HCMUS\Courses\PTUDCSDL\Deadline\TH\Tuan03\18600187\QuanLySinhVien\BUS\bin\Debug\BUS.pdb
+D:\FIT-HCMUS\Courses\PTUDCSDL\Deadline\TH\Tuan03\18600187\QuanLySinhVien\BUS\bin\Debug\DAL.dll
+D:\FIT-HCMUS\Courses\PTUDCSDL\Deadline\TH\Tuan03\18600187\QuanLySinhVien\BUS\bin\Debug\DTO.dll
+D:\FIT-HCMUS\Courses\PTUDCSDL\Deadline\TH\Tuan03\18600187\QuanLySinhVien\BUS\bin\Debug\DAL.pdb
+D:\FIT-HCMUS\Courses\PTUDCSDL\Deadline\TH\Tuan03\18600187\QuanLySinhVien\BUS\bin\Debug\DTO.pdb
+D:\FIT-HCMUS\Courses\PTUDCSDL\Deadline\TH\Tuan03\18600187\QuanLySinhVien\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\FIT-HCMUS\Courses\PTUDCSDL\Deadline\TH\Tuan03\18600187\QuanLySinhVien\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\FIT-HCMUS\Courses\PTUDCSDL\Deadline\TH\Tuan03\18600187\QuanLySinhVien\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\FIT-HCMUS\Courses\PTUDCSDL\Deadline\TH\Tuan03\18600187\QuanLySinhVien\BUS\obj\Debug\BUS.dll
+D:\FIT-HCMUS\Courses\PTUDCSDL\Deadline\TH\Tuan03\18600187\QuanLySinhVien\BUS\obj\Debug\BUS.pdb

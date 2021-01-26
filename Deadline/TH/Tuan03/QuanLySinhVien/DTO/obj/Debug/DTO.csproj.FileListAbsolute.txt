@@ -1,0 +1,6 @@
+D:\FIT-HCMUS\Courses\PTUDCSDL\Deadline\TH\Tuan03\18600187\QuanLySinhVien\DTO\bin\Debug\DTO.dll
+D:\FIT-HCMUS\Courses\PTUDCSDL\Deadline\TH\Tuan03\18600187\QuanLySinhVien\DTO\bin\Debug\DTO.pdb
+D:\FIT-HCMUS\Courses\PTUDCSDL\Deadline\TH\Tuan03\18600187\QuanLySinhVien\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\FIT-HCMUS\Courses\PTUDCSDL\Deadline\TH\Tuan03\18600187\QuanLySinhVien\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\FIT-HCMUS\Courses\PTUDCSDL\Deadline\TH\Tuan03\18600187\QuanLySinhVien\DTO\obj\Debug\DTO.dll
+D:\FIT-HCMUS\Courses\PTUDCSDL\Deadline\TH\Tuan03\18600187\QuanLySinhVien\DTO\obj\Debug\DTO.pdb

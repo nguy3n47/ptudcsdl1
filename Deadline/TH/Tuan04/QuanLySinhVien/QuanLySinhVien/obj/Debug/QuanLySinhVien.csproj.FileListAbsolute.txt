@@ -1,0 +1,14 @@
+D:\FIT-HCMUS\Courses\PTUDCSDL\Deadline\TH\Tuan04\18600187\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+D:\FIT-HCMUS\Courses\PTUDCSDL\Deadline\TH\Tuan04\18600187\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+D:\FIT-HCMUS\Courses\PTUDCSDL\Deadline\TH\Tuan04\18600187\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+D:\FIT-HCMUS\Courses\PTUDCSDL\Deadline\TH\Tuan04\18600187\QuanLySinhVien\QuanLySinhVien\bin\Debug\BUS.dll
+D:\FIT-HCMUS\Courses\PTUDCSDL\Deadline\TH\Tuan04\18600187\QuanLySinhVien\QuanLySinhVien\bin\Debug\DAL.dll
+D:\FIT-HCMUS\Courses\PTUDCSDL\Deadline\TH\Tuan04\18600187\QuanLySinhVien\QuanLySinhVien\bin\Debug\DTO.dll
+D:\FIT-HCMUS\Courses\PTUDCSDL\Deadline\TH\Tuan04\18600187\QuanLySinhVien\QuanLySinhVien\bin\Debug\BUS.pdb
+D:\FIT-HCMUS\Courses\PTUDCSDL\Deadline\TH\Tuan04\18600187\QuanLySinhVien\QuanLySinhVien\bin\Debug\DAL.pdb
+D:\FIT-HCMUS\Courses\PTUDCSDL\Deadline\TH\Tuan04\18600187\QuanLySinhVien\QuanLySinhVien\bin\Debug\DTO.pdb
+D:\FIT-HCMUS\Courses\PTUDCSDL\Deadline\TH\Tuan04\18600187\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csprojAssemblyReference.cache
+D:\FIT-HCMUS\Courses\PTUDCSDL\Deadline\TH\Tuan04\18600187\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CoreCompileInputs.cache
+D:\FIT-HCMUS\Courses\PTUDCSDL\Deadline\TH\Tuan04\18600187\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CopyComplete
+D:\FIT-HCMUS\Courses\PTUDCSDL\Deadline\TH\Tuan04\18600187\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+D:\FIT-HCMUS\Courses\PTUDCSDL\Deadline\TH\Tuan04\18600187\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb

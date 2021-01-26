@@ -1,0 +1,6 @@
+D:\Deadline\PTUDCSDL\ôn thi\QuanLyBanHang\DAL\bin\Debug\DAL.dll
+D:\Deadline\PTUDCSDL\ôn thi\QuanLyBanHang\DAL\bin\Debug\DAL.pdb
+D:\Deadline\PTUDCSDL\ôn thi\QuanLyBanHang\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Deadline\PTUDCSDL\ôn thi\QuanLyBanHang\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Deadline\PTUDCSDL\ôn thi\QuanLyBanHang\DAL\obj\Debug\DAL.dll
+D:\Deadline\PTUDCSDL\ôn thi\QuanLyBanHang\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,9 @@
+D:\Deadline\PTUDCSDL\ôn thi\QuanLyBanHang\BUS\bin\Debug\BUS.dll
+D:\Deadline\PTUDCSDL\ôn thi\QuanLyBanHang\BUS\bin\Debug\BUS.pdb
+D:\Deadline\PTUDCSDL\ôn thi\QuanLyBanHang\BUS\bin\Debug\DAL.dll
+D:\Deadline\PTUDCSDL\ôn thi\QuanLyBanHang\BUS\bin\Debug\DAL.pdb
+D:\Deadline\PTUDCSDL\ôn thi\QuanLyBanHang\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\Deadline\PTUDCSDL\ôn thi\QuanLyBanHang\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Deadline\PTUDCSDL\ôn thi\QuanLyBanHang\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Deadline\PTUDCSDL\ôn thi\QuanLyBanHang\BUS\obj\Debug\BUS.dll
+D:\Deadline\PTUDCSDL\ôn thi\QuanLyBanHang\BUS\obj\Debug\BUS.pdb
